@@ -1,0 +1,8 @@
+Jim- Salesman
+Mike- CEO
+John - Manager
+Kevin - Chairman
+Steve - Accountant
+David - Software Developer
+Kane- Engineer
+Ross - Electrition
